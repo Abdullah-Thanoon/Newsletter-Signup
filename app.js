@@ -64,9 +64,3 @@ app.post("/failure", function(req, res){
     res.redirect("/");
 });
 
-
-// API KEY
-// e6b8df679a24ce2f50b4eb5cf3545b88-us18
-
-// List ID
-// f7b59b2fcf
